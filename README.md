@@ -17,3 +17,5 @@ The aim of this project is to explore what I believe to be the underlying paradi
 -stochasticity allowing breakout from local minima and pushing weaker associations over a threshold of being made
 
 This will be an attempt to build these paradigms on top of the latest research in neuroscience regarding the structure and format of various neurons in a way that a working neurosymbolic AI can be part designed and part evolved/trained.
+
+The architecture of this project will be monitoring/evolution/run classes (python) -> builder classes (python) -> performant backend C++ where the arrows indicate abstraction/dependency
